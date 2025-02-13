@@ -33,7 +33,7 @@ This repository contains my implementation of **Project #2 for the Computer Netw
 
 - 📜 **topology.pkt:** Packet Tracer project file with full network configuration.
 - 📄 **Project Report (Project2_ENCS3320.pdf & project2_compressed.pdf):** Detailed documentation of implementation steps and results.
-- 
+ 
 ## 🚀 How to Run
 
 1. Open **Packet Tracer** and load the `topology.pkt` file.
