@@ -46,6 +46,8 @@ This repository contains my implementation of **Project #2 for the Computer Netw
 
 - **Cisco Packet Tracer** (For Network Simulation)
 - **Basic Networking Knowledge** (IP Addressing, Routing Protocols, and Subnetting)
+  
+## 👩‍💻 Authors
 
 **Saja Asfour**
 
